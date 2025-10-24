@@ -17,3 +17,7 @@ It detects simple "blackhole/unreachable" routes in a mock VPC route table JSON 
 ## Notes
 - This is a simplified demo (no real AWS APIs or credentials).
 - The remediation logic is intentionally basic to demonstrate the pattern for auto-remediation.
+- <img width="730" height="632" alt="1" src="https://github.com/user-attachments/assets/7c8a32f4-e46e-40d3-afa3-73988b0288db" />
+<img width="1351" height="640" alt="2" src="https://github.com/user-attachments/assets/7aad579c-0b52-4129-b27d-fe4c97eee003" />
+<img width="543" height="331" alt="3" src="https://github.com/user-attachments/assets/b742563d-f306-463e-aaf0-5f9943f78966" />
+
